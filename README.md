@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Manikandan Rajendran</h1>
 <h3 align="center">DevSecOps Engineer</h3>
 
+<p align="center">
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/built_with-love-red" alt="built with love badge" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/made_with-markdown-blue" alt="made with markdown badge" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/open-source-green" alt="open source badge" />
+ </a>
+ <br />
+ <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/check_it-out-blue" alt="check it out badge" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/built_by-developers-yellow" alt="built by developers badge" />
+ </a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivan89&label=Profile%20views&color=0e75b6&style=flat" alt="sivan89" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
